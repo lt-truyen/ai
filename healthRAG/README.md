@@ -19,6 +19,7 @@ cd ai/healthRAG
 
 #2. Cài backend &  backend
 pip install -r requirements.txt
+#3 Run backend
 uvicorn main:app --reload
-#3 run programe
+#4 run frontend
 streamlit run app.py
