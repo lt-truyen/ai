@@ -1,4 +1,5 @@
-Tôi có thể giúp bạn tạo Prompt RAG, pipeline truy xuất, hoặc slide thuyết trình. Bạn muốn bắt đầu từ phần nào trước?
+Author: Thanh Truyền
+Email: ltt.develop@gmail.com
 
 # 🧠 Medical RAG Assistant
 
