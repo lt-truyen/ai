@@ -14,8 +14,8 @@ Trợ lý AI chuyên ngành y tế sử dụng kỹ thuật Retrieval-Augmented 
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/yourusername/rag-medical-assistant.git
-cd rag-medical-assistant
+git clone https://github.com/lt-truyen/ai.git
+cd healthRAG
 
 #2. Cài backend &  backend
 pip install -r requirements.txt
